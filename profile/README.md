@@ -14,6 +14,10 @@
 
 ## 📅 스터디 일정  
 
+### 🏁 6주차 25.04.14~25.04.21 
+- 📌 **math(수학) 문제 000 ~ 004번**  
+- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/math)  
+
 ### 🏁 5주차 25.03.26~25.04.02 
 - 📌 **tree(트리) 문제 000 ~ 004번**  
 - 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/tree)  
